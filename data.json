@@ -1,0 +1,395 @@
+{
+    "config": [
+        {
+            "int_interval": 5,
+            "activate_ads": "true",
+            "custom_banner": "true",
+            "one_signal": "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network": "admob",
+            "unity_game_id": "4929725",
+            "unity_int": "Interstitial_Android",
+            "unity_ban": "Banner_Android",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native": "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "yandex_ban": "R-M-1820435-1",
+            "yandex_native": "R-M-DEMO-native-i",
+            "yandex_int": "R-M-DEMO-interstitial",
+            "iron_key": "168e4ab9d",
+            "iron_ban": "DefaultBanner",
+            "iron_int": "DefaultInterstitial",
+            "max_ban": "ceda1a6dd62a0502",
+            "max_native": "9e27ff985bda79be",
+            "max_int": "3805b3b693717700",
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    "more": [
+        {
+            "name": "Dead Cells",
+            "ico": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=en&gl=US"
+        },
+        {
+            "name": "Soul Knight",
+            "ico": "https://play-lh.googleusercontent.com/RzzpPaOT7c4gH414ySnH41TqCmNjwX2s8nVypdG5xg4OaA5RJmZWNAh1Kfd-25KBEIw=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.ChillyRoom.DungeonShooter&hl=en&gl=US"
+        },
+        {
+            "name": "Skullgirls: Fighting RPG",
+            "ico": "https://play-lh.googleusercontent.com/1xYg2u5qxTosUZvcnA3jfvJrE25VQdAbrSaixwl_c2aOUyIGTXB4v93nwjc8AX1vUw=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.autumn.skullgirls&hl=en&gl=US"
+        },
+        {
+            "name": "Nameless Cat",
+            "ico": "https://play-lh.googleusercontent.com/jytKF44kOMaAQrEVR8tcJYxMHE-SGWZudmJ3lQkd_-nEHIQuuASQ4NtBvE2-KR0EGebB=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.kotobagames.namelesscat&hl=en&gl=US"
+        },
+        {
+            "name": "Evoland 2",
+            "ico": "https://play-lh.googleusercontent.com/xg-dWhkBUZQdc1EZInH-QRcHjqTFB2o5pz2UkclrX-5oH7a7s0HtLlusNuAdmWtBXCDU=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.playdigious.evoland2&hl=en&gl=US"
+        },
+        {
+            "name": "Lost Sanctuary",
+            "ico": "https://play-lh.googleusercontent.com/Ldp1_2RAwDrIGl6emciQ5cGapTBCmkoZWgC9DOwvxmBtrl7D2g3DXsiMLnjbND6txWzy=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.eyougame.syxxen&hl=en&gl=US"
+        },
+        {
+            "name": "Diablo Immortal",
+            "ico": "https://play-lh.googleusercontent.com/HhJys-Eaa5RLs5hkeIvFg9Gw2fMsGp5UMvJgQraajjsSfe496LTK8azyBQlo8UfIRQ=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=en&gl=US"
+        },
+        {
+            "name": "Honkai",
+            "ico": "https://play-lh.googleusercontent.com/AsaeL9oWkGdjyDNwbmzsaYY_WxdPrmQVGUfgfzL4mhJteC1X3HdLib9bafnXaYr3WB8=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=en&gl=US"
+        },
+        {
+            "name": "Terraria",
+            "ico": "https://play-lh.googleusercontent.com/BoAvMI_6JGNRBp_3gFaVuLuqW_4J-rjtbR_giKFoJRvZmDiPtDlnLMur9cT7sTTfeos=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.and.games505.TerrariaPaid&hl=en&gl=US"
+        },
+        {
+            "name": "Dead Effect 2",
+            "ico": "https://play-lh.googleusercontent.com/hC4b7udwFmoIldNRdgNc4uGtDO7VPSjiqJBKcV2PDVgVdIcEhOfeeVXScoSD-0l24s1I=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.badflyinteractive.deadeffect2&hl=en&gl=US"
+        }
+    ],
+    "games": [
+        {
+            "name": "Dead Cells",
+            "ico": "https://play-lh.googleusercontent.com/Mn9NateYFRZQbWnlZvszDPoKZbeuZM2O-Kyn7EKRCZI3D8joecHqytfOx73IyuAwHw=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile&hl=en&gl=US",
+            "cat": "Overall",
+            "orientation": "1"
+        },
+        {
+            "name": "Skullgirls: Fighting RPG",
+            "ico": "https://play-lh.googleusercontent.com/1xYg2u5qxTosUZvcnA3jfvJrE25VQdAbrSaixwl_c2aOUyIGTXB4v93nwjc8AX1vUw=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.autumn.skullgirls&hl=en&gl=US",
+            "cat": "Strategies",
+            "orientation": "0"
+        },
+        {
+            "name": "Honkai",
+            "ico": "https://play-lh.googleusercontent.com/AsaeL9oWkGdjyDNwbmzsaYY_WxdPrmQVGUfgfzL4mhJteC1X3HdLib9bafnXaYr3WB8=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=en&gl=US",
+            "cat": "Soccer",
+            "orientation": "1"
+        },
+		
+    ],
+    "custom": [
+        {
+            "name": "Diablo Immortal",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/qNTKPFC/1.jpg",
+            "ico": "https://play-lh.googleusercontent.com/HhJys-Eaa5RLs5hkeIvFg9Gw2fMsGp5UMvJgQraajjsSfe496LTK8azyBQlo8UfIRQ=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.blizzard.diablo.immortal&hl=en&gl=US"
+        },
+        {
+            "name": "Lost Sanctuary",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/wSS8pkc/2.jpg",
+            "ico": "https://play-lh.googleusercontent.com/Ldp1_2RAwDrIGl6emciQ5cGapTBCmkoZWgC9DOwvxmBtrl7D2g3DXsiMLnjbND6txWzy=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.eyougame.syxxen&hl=en&gl=US"
+        },
+        {
+            "name": "Dead Effect 2",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/2PMSc9g/3.jpg",
+            "ico": "https://play-lh.googleusercontent.com/hC4b7udwFmoIldNRdgNc4uGtDO7VPSjiqJBKcV2PDVgVdIcEhOfeeVXScoSD-0l24s1I=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.badflyinteractive.deadeffect2&hl=en&gl=US"
+        },
+        
+    ],
+    "wallpapers": [
+        {
+            "name": "",
+            "img": "https://i.ibb.co/LN2sWG2/03.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/Bnfx5Vc/04.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/7vYfZym/02.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/tPR889F/01.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/pvVCv27/0010.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/K0zXPPp/09.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/BtDsXfd/08.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/56TK2Xm/07.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/pvNKN3x/05.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/k5ZYKFR/06.jpg"
+        }
+    ],
+    "data": [
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Mastering the Basics",
+            "img1": "https://i.ibb.co/xz1XFbr/1.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/744c1c8eae7f4c548d86e0d81240db4b.gif",
+            "part1": "Train Mechanics: Familiarize yourself with every aspect of your armored train, from maintaining its speed and fuel to repairing damage and operating its defenses. Learn how to use terrain to your advantage, taking cover from enemy fire and utilizing chokepoints for strategic defense.",
+            "part2": "Resource Management: Resources are crucial in Last Train Home. Wood, coal, and water are essential for keeping your train moving and your crew alive. Prioritize resource gathering and carefully manage your stockpiles to avoid running out in the unforgiving Siberian wilderness.
+Combat: Master the strengths and weaknesses of your different soldier units. Utilize cover to your advantage and flank enemies whenever possible. Don't be afraid to retreat and regroup if things get too heated."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Prioritizing Crew and Morale",
+            "img1": "https://i.ibb.co/KVhjjRt/2.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/427ce153cfba40a0b115f18bbf8f040e.gif",
+            "part1": "Recruit and Upgrade: Build a diverse crew with different skills and specializations. Medics, engineers, scouts, and even resourceful scavengers are all invaluable assets. Upgrade your crew's skills and equipment as you progress to improve their effectiveness.",
+            "part2": "Morale Matters: Keep your crew's morale high. Address their needs, provide them with food and rest, and avoid exposing them to unnecessary danger. Low morale can lead to decreased combat effectiveness and even desertion.
+Bonding and Events: Pay attention to crew bonding events. These can provide stat bonuses, unlock new abilities, and even reveal hidden information about the world and the characters."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Diplomacy and Factions",
+            "img1": "https://i.ibb.co/k4hChYN/3.webp",
+            "img2": "https://gifrun.blob.core.windows.net/temp/d26cc9f0aa1c4ebaa955b789f037d623.gif",
+            "part1": "Negotiate and Trade: Interact with different factions you encounter along your journey. Trade resources, complete quests, and build alliances to gain access to new equipment, resources, and even military support.",
+            "part2": "Reputation Matters: Your actions will have consequences. Build a positive reputation with friendly factions to reap the rewards, but be wary of the repercussions of crossing the wrong people.
+Moral Choices: Prepare to face difficult moral choices that can impact the story, your relationships with factions, and even the ending of the game."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Exploration and Discovery",
+            "img1": "https://i.ibb.co/Xj6Hjq1/4.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/f87ec1cd0e934d82b8e24e6baf5de53f.gif",
+            "part1": "Don't Just Follow the Tracks: Explore the world beyond the train tracks. You'll find hidden resources, loot caches, and even side quests that can offer valuable rewards and insights into the game's lore.",
+            "part2": "Uncover the Secrets: Pay attention to environmental details and listen to crew conversations. There are many secrets hidden throughout the game, waiting to be discovered by observant players.
+Adapt to the Unexpected: Be prepared for anything. Random events and enemy encounters can throw your plans into disarray. Adapt your strategies on the fly and use your resourcefulness to overcome challenges."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Utilizing Crafting and Scavenging",
+            "img1": "https://i.ibb.co/dfxRWd4/5.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/4ccb170e5a144790993c97da0e689903.gif",
+            "part1": "Craft Your Way to Success: Unlock and utilize the crafting system to create valuable items, weapons, and equipment. Scavenge resources from fallen enemies and the environment to fuel your crafting needs.",
+            "part2": "Research and Development: Invest in research to unlock new technologies and upgrades for your train, crew, and equipment. Every little advantage counts in the harsh Siberian wilderness.
+Don't Waste Anything: Every scrap of metal, piece of wood, and even discarded enemy weapons can be used for crafting or sold for valuable resources. Never underestimate the importance of scavenging in Last Train Home."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Prepare for the Inevitable",
+            "img1": "https://i.ibb.co/2M8bJcr/6.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/b77ff8809330446eb9f94d2b8cdb1604.gif",
+            "part1": "Stockpile for Emergencies: Always keep a reserve of essential resources, especially food, medicine, and ammunition. You never know when you might encounter a harsh blizzard, a brutal enemy ambush, or a lengthy stretch of barren wasteland.",
+            "part2": "Fortify Your Train: Upgrade your train's defenses with armor plates, turrets, and other fortifications. The better your train can withstand attacks, the higher your chances of survival.
+Plan Your Escape Routes: Always have a backup plan. If your train gets stuck or heavily damaged, have alternative ways to reach your destination, whether"
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Embrace the Challenge",
+            "img1": "https://i.ibb.co/VJ71W25/7.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/cb8fdfdcc576462193a5631187725413.gif",
+            "part1": "Don't Be Afraid to Fail: Last Train Home is a difficult game. Don't get discouraged if you encounter setbacks or failures. Learn from your mistakes, adapt your strategies, and keep pushing forward. Remember, perseverance is key!",
+            "part2": "Difficulty Matters: Consider increasing the game's difficulty as you get more comfortable. Higher difficulty settings offer greater challenges and rewards, and can help you hone your skills and become a true Last Train Home pro.
+Seek Community Help: Don't be afraid to reach out to the online community for help and advice. There are many experienced Last Train Home players who are willing to share their knowledge and tips. Utilize forums, wikis, and online communities to learn from others and find creative solutions to challenges."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Remember, It's a Story Too",
+            "img1": "https://i.ibb.co/LJjBbQh/8.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/3e9cea7024304d7b8043eb8e9c9283a9.gif",
+            "part1": "Pay Attention to the Narrative: Last Train Home isn't just about surviving the journey; it's also about the characters, the story, and the historical context. Take the time to appreciate the narrative, delve into the crew's relationships, and immerse yourself in the world of the Russian Civil War.",
+            "part2": "Make Meaningful Choices: Your actions have consequences. Consider the moral implications of your decisions and strive to make choices that align with your values and vision for your crew's survival. The story unfolds based on your actions, so shape it with purpose.
+Uncover the Hidden Depths: The world of Last Train Home is rich with lore and historical references. Pay attention to environmental details, listen to crew conversations, and explore hidden areas to uncover the deeper meanings and hidden stories woven into the game's tapestry."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Master the Environment",
+            "img1": "https://i.ibb.co/XDZt7zs/9.jpg",
+            "img2": "https://gifrun.blob.core.windows.net/temp/04aee6876b3347f18b52df04a474cb82.gif",
+            "part1": "Know the Landscape: Each region in Last Train Home presents unique challenges and opportunities. Learn the strengths and weaknesses of different terrains, utilize cover effectively, and adapt your tactics based on the environment. Mountains offer natural chokepoints, forests provide concealment, and open plains demand strategic use of speed and cover.",
+            "part2": "Weather the Storms: Be prepared for the harsh Siberian elements. Blizzards can reduce visibility and slow your train, while scorching heat can damage your engine and dehydrate your crew. Plan your travel accordingly, stock up on resources, and adapt your strategies to overcome environmental challenges.
+Use Your Surroundings: The environment is not just a backdrop; it's a tool. Destroy enemy barricades with your train's cannon, lure enemies into environmental hazards, and utilize terrain features to gain an advantage in combat. Be creative and think outside the box to use the environment to your advantage."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Befriend the Train Mechanics",
+            "img1": "https://gifrun.blob.core.windows.net/temp/fadc8387d7894ba899d9f1ca813bffc8.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/d00efa2f5388446c8a51863c15185e52.gif",
+            "part1": "Your armored train is your lifeline, so understanding its intricacies is crucial. Master fueling, repairs, defenses, and even speed variations to adapt to the ever-changing Siberian landscape. Remember, the train isn't just a vehicle; it's a character in itself.",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Prioritize Crew and Morale",
+            "img1": "https://gifrun.blob.core.windows.net/temp/14d9723fffdc49108b05e3cad451ac80.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/a3df50c9d07f47eda6466fa801976246.gif",
+            "part1": "Your crew is more than just manpower; they're your comrades in arms. Recruit a diverse team with unique skills like medics, engineers, and scouts.",
+            "part2": "Keep their morale high by addressing needs, providing food and rest, and avoiding unnecessary risks. Remember, a happy crew is a productive crew."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Navigate the Political Landscape",
+            "img1": "https://gifrun.blob.core.windows.net/temp/d6f2d9c0ffe24e6ab483bfc5b85d170e.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/2ecc7d43070345deb4e3bc5c875f4aad.gif",
+            "part1": "The war isn't just fought on the tracks. Forge alliances, trade resources, and complete quests for different factions to gain access to valuable resources and support. However, be mindful of your reputation, as crossing the wrong people can have dire consequences.",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Embrace the Explorer's Spirit",
+            "img1": "https://gifrun.blob.core.windows.net/temp/77f36de97f854636b55be7f935692995.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/c53d367e239e4741ac8332e3d84792b6.gif",
+            "part1": "Don't just follow the tracks; venture off the beaten path to discover hidden caches, resources, and even side quests.",
+            "part2": "These detours can offer valuable rewards and enrich your understanding of the game's lore and world. Remember, sometimes the greatest treasures lie beyond the expected route."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Craft Your Way to Success",
+            "img1": "https://gifrun.blob.core.windows.net/temp/80eca48616624f279b3e6ce2bfaf2a7f.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/d91ddc88ca484db993680eff92908f8f.gif",
+            "part1": "Scavenge resources and utilize the crafting system to create weapons, equipment, and even upgrades for your train.",
+            "part2": "Every crafted item can make a difference in the harsh Siberian wilderness. Remember, resourcefulness and ingenuity are key to survival."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Fortify Your Iron Horse",
+            "img1": "https://gifrun.blob.core.windows.net/temp/a71a9869e3bc4b1ca84d974dcc806d5d.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/eeb46be2a73e4b7da05d23a64f4a2fc0.gif",
+            "part1": "Prepare for the inevitable. Upgrade your train's defenses with armor, turrets, and other fortifications. The sturdier your train, the higher your chances of withstanding enemy attacks and environmental hazards. Remember, prevention is always better than cure.",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Adapt and Improvise",
+            "img1": "https://gifrun.blob.core.windows.net/temp/d434a9666870434c84b3e50b3116fad1.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/87a89b1133d042b78e7bc53b0f7e8020.gif",
+            "part1": "Last Train Home is unpredictable. Be prepared to adapt your plans on the fly when unexpected events occur. Enemy ambushes, resource shortages, and even train damage can all throw a wrench in your plans. ",
+            "part2": "Think creatively, utilize your crew's diverse skills, and improvise solutions to overcome any obstacle. Remember, flexibility is key to survival in a dynamic world."
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Immerse Yourself in the Story",
+            "img1": "https://gifrun.blob.core.windows.net/temp/717e3b36de47425b88690297bb328053.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/62f469665479486f93bbd02fe9740067.gif",
+            "part1": "Last Train Home is more than just a strategy game; it's a narrative experience. Pay attention to the story, the characters, and the historical context. Make meaningful choices, witness impactful events, and forge relationships with your crew. Remember, the journey is just as important as the destination.",
+            "part2": "These are just a few tips to help you master and enjoy Last Train Home. Remember, the key is to experiment, learn from your mistakes, and most importantly, have fun!"
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Summary",
+            "img1": "https://gifrun.blob.core.windows.net/temp/3ab17203390e431486687e1df7e1d3c9.gif",
+            "img2": "hhttps://gifrun.blob.core.windows.net/temp/c7e9fa4d1a4b42e29b002b4d3bce9b74.gif",
+            "part1": "Mastering Last Train Home combines strategic planning, resource management, crew care, and adaptability. Here's a quick recap of the 9 key tips:
+
+1-Befriend the Train Mechanics: Understand and utilize every aspect of your train.
+2-Prioritize Crew and Morale: Build a diverse team, keep them happy and healthy.
+3-Navigate the Political Landscape: Forge alliances, complete quests, and manage your reputation.
+4-Embrace the Explorer's Spirit: Venture off the beaten path to discover hidden treasures and stories.
+5-Craft Your Way to Success: Scavenge and craft items to overcome challenges.
+6-Fortify Your Iron Horse: Upgrade your train's defenses for protection.
+7-Adapt and Improvise: Be flexible and think creatively to overcome unexpected situations.
+8-Immerse Yourself in the Story: Enjoy the narrative, characters, and historical context.
+9-Master the Environment: Understand and utilize the different landscapes and weather conditions.",
+            "part2": "Remember, practice, learn from mistakes, and most importantly, have fun on your journey through the harsh Siberian wilderness!"
+        }
+    ]
+}
