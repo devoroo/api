@@ -179,118 +179,21 @@
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Mastering the Basics",
-            "img1": "https://i.ibb.co/xz1XFbr/1.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/744c1c8eae7f4c548d86e0d81240db4b.gif",
-            "part1": "Train Mechanics: Familiarize yourself with every aspect of your armored train, from maintaining its speed and fuel to repairing damage and operating its defenses. Learn how to use terrain to your advantage, taking cover from enemy fire and utilizing chokepoints for strategic defense.",
-            "part2": "Resource Management: Resources are crucial in Last Train Home. Wood, coal, and water are essential for keeping your train moving and your crew alive. Prioritize resource gathering and carefully manage your stockpiles to avoid running out in the unforgiving Siberian wilderness.
-Combat: Master the strengths and weaknesses of your different soldier units. Utilize cover to your advantage and flank enemies whenever possible. Don't be afraid to retreat and regroup if things get too heated."
+            "name": "Doughy Dexterity",
+            "img1": "https://gifrun.blob.core.windows.net/temp/fbe2ac81f4dc41e896f170e20abfe57c.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/4bef3f9428114759bcaafb16e58e3fd9.gif",
+            "part1": "Master combos, dodges, and elemental dances. Be the graceful storm, the sugared hurricane!",
+            "part2": ""
         },
         {
             "url": "",
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Prioritizing Crew and Morale",
+            "name": "Gear Gourmet",
             "img1": "https://i.ibb.co/KVhjjRt/2.jpg",
             "img2": "https://gifrun.blob.core.windows.net/temp/427ce153cfba40a0b115f18bbf8f040e.gif",
-            "part1": "Recruit and Upgrade: Build a diverse crew with different skills and specializations. Medics, engineers, scouts, and even resourceful scavengers are all invaluable assets. Upgrade your crew's skills and equipment as you progress to improve their effectiveness.",
-            "part2": "Morale Matters: Keep your crew's morale high. Address their needs, provide them with food and rest, and avoid exposing them to unnecessary danger. Low morale can lead to decreased combat effectiveness and even desertion.
-Bonding and Events: Pay attention to crew bonding events. These can provide stat bonuses, unlock new abilities, and even reveal hidden information about the world and the characters."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Diplomacy and Factions",
-            "img1": "https://i.ibb.co/k4hChYN/3.webp",
-            "img2": "https://gifrun.blob.core.windows.net/temp/d26cc9f0aa1c4ebaa955b789f037d623.gif",
-            "part1": "Negotiate and Trade: Interact with different factions you encounter along your journey. Trade resources, complete quests, and build alliances to gain access to new equipment, resources, and even military support.",
-            "part2": "Reputation Matters: Your actions will have consequences. Build a positive reputation with friendly factions to reap the rewards, but be wary of the repercussions of crossing the wrong people.
-Moral Choices: Prepare to face difficult moral choices that can impact the story, your relationships with factions, and even the ending of the game."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Exploration and Discovery",
-            "img1": "https://i.ibb.co/Xj6Hjq1/4.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/f87ec1cd0e934d82b8e24e6baf5de53f.gif",
-            "part1": "Don't Just Follow the Tracks: Explore the world beyond the train tracks. You'll find hidden resources, loot caches, and even side quests that can offer valuable rewards and insights into the game's lore.",
-            "part2": "Uncover the Secrets: Pay attention to environmental details and listen to crew conversations. There are many secrets hidden throughout the game, waiting to be discovered by observant players.
-Adapt to the Unexpected: Be prepared for anything. Random events and enemy encounters can throw your plans into disarray. Adapt your strategies on the fly and use your resourcefulness to overcome challenges."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Utilizing Crafting and Scavenging",
-            "img1": "https://i.ibb.co/dfxRWd4/5.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/4ccb170e5a144790993c97da0e689903.gif",
-            "part1": "Craft Your Way to Success: Unlock and utilize the crafting system to create valuable items, weapons, and equipment. Scavenge resources from fallen enemies and the environment to fuel your crafting needs.",
-            "part2": "Research and Development: Invest in research to unlock new technologies and upgrades for your train, crew, and equipment. Every little advantage counts in the harsh Siberian wilderness.
-Don't Waste Anything: Every scrap of metal, piece of wood, and even discarded enemy weapons can be used for crafting or sold for valuable resources. Never underestimate the importance of scavenging in Last Train Home."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Prepare for the Inevitable",
-            "img1": "https://i.ibb.co/2M8bJcr/6.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/b77ff8809330446eb9f94d2b8cdb1604.gif",
-            "part1": "Stockpile for Emergencies: Always keep a reserve of essential resources, especially food, medicine, and ammunition. You never know when you might encounter a harsh blizzard, a brutal enemy ambush, or a lengthy stretch of barren wasteland.",
-            "part2": "Fortify Your Train: Upgrade your train's defenses with armor plates, turrets, and other fortifications. The better your train can withstand attacks, the higher your chances of survival.
-Plan Your Escape Routes: Always have a backup plan. If your train gets stuck or heavily damaged, have alternative ways to reach your destination, whether"
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Embrace the Challenge",
-            "img1": "https://i.ibb.co/VJ71W25/7.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/cb8fdfdcc576462193a5631187725413.gif",
-            "part1": "Don't Be Afraid to Fail: Last Train Home is a difficult game. Don't get discouraged if you encounter setbacks or failures. Learn from your mistakes, adapt your strategies, and keep pushing forward. Remember, perseverance is key!",
-            "part2": "Difficulty Matters: Consider increasing the game's difficulty as you get more comfortable. Higher difficulty settings offer greater challenges and rewards, and can help you hone your skills and become a true Last Train Home pro.
-Seek Community Help: Don't be afraid to reach out to the online community for help and advice. There are many experienced Last Train Home players who are willing to share their knowledge and tips. Utilize forums, wikis, and online communities to learn from others and find creative solutions to challenges."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Remember, It's a Story Too",
-            "img1": "https://i.ibb.co/LJjBbQh/8.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/3e9cea7024304d7b8043eb8e9c9283a9.gif",
-            "part1": "Pay Attention to the Narrative: Last Train Home isn't just about surviving the journey; it's also about the characters, the story, and the historical context. Take the time to appreciate the narrative, delve into the crew's relationships, and immerse yourself in the world of the Russian Civil War.",
-            "part2": "Make Meaningful Choices: Your actions have consequences. Consider the moral implications of your decisions and strive to make choices that align with your values and vision for your crew's survival. The story unfolds based on your actions, so shape it with purpose.
-Uncover the Hidden Depths: The world of Last Train Home is rich with lore and historical references. Pay attention to environmental details, listen to crew conversations, and explore hidden areas to uncover the deeper meanings and hidden stories woven into the game's tapestry."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Master the Environment",
-            "img1": "https://i.ibb.co/XDZt7zs/9.jpg",
-            "img2": "https://gifrun.blob.core.windows.net/temp/04aee6876b3347f18b52df04a474cb82.gif",
-            "part1": "Know the Landscape: Each region in Last Train Home presents unique challenges and opportunities. Learn the strengths and weaknesses of different terrains, utilize cover effectively, and adapt your tactics based on the environment. Mountains offer natural chokepoints, forests provide concealment, and open plains demand strategic use of speed and cover.",
-            "part2": "Weather the Storms: Be prepared for the harsh Siberian elements. Blizzards can reduce visibility and slow your train, while scorching heat can damage your engine and dehydrate your crew. Plan your travel accordingly, stock up on resources, and adapt your strategies to overcome environmental challenges.
-Use Your Surroundings: The environment is not just a backdrop; it's a tool. Destroy enemy barricades with your train's cannon, lure enemies into environmental hazards, and utilize terrain features to gain an advantage in combat. Be creative and think outside the box to use the environment to your advantage."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Befriend the Train Mechanics",
-            "img1": "https://gifrun.blob.core.windows.net/temp/fadc8387d7894ba899d9f1ca813bffc8.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/d00efa2f5388446c8a51863c15185e52.gif",
-            "part1": "Your armored train is your lifeline, so understanding its intricacies is crucial. Master fueling, repairs, defenses, and even speed variations to adapt to the ever-changing Siberian landscape. Remember, the train isn't just a vehicle; it's a character in itself.",
+            "part1": "Ditch scraps, choose gear that sings with your stats. Hidden gems lurk, upgrades empower, be a walking dessert disaster!",
             "part2": ""
         },
         {
@@ -298,21 +201,10 @@ Use Your Surroundings: The environment is not just a backdrop; it's a tool. Dest
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Prioritize Crew and Morale",
-            "img1": "https://gifrun.blob.core.windows.net/temp/14d9723fffdc49108b05e3cad451ac80.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/a3df50c9d07f47eda6466fa801976246.gif",
-            "part1": "Your crew is more than just manpower; they're your comrades in arms. Recruit a diverse team with unique skills like medics, engineers, and scouts.",
-            "part2": "Keep their morale high by addressing needs, providing food and rest, and avoiding unnecessary risks. Remember, a happy crew is a productive crew."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Navigate the Political Landscape",
-            "img1": "https://gifrun.blob.core.windows.net/temp/d6f2d9c0ffe24e6ab483bfc5b85d170e.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/2ecc7d43070345deb4e3bc5c875f4aad.gif",
-            "part1": "The war isn't just fought on the tracks. Forge alliances, trade resources, and complete quests for different factions to gain access to valuable resources and support. However, be mindful of your reputation, as crossing the wrong people can have dire consequences.",
+            "name": "Skillful Symphony",
+            "img1": "https://gifrun.blob.core.windows.net/temp/2ea5465760794947b91798296419f14a.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/344047f8fbd945a3813ba449c06dade1.gif",
+            "part1": "Experiment, unlock hidden melodies, master cooldowns. Your build's a concerto, enemies crumble like pastries!",
             "part2": ""
         },
         {
@@ -320,32 +212,10 @@ Use Your Surroundings: The environment is not just a backdrop; it's a tool. Dest
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Embrace the Explorer's Spirit",
-            "img1": "https://gifrun.blob.core.windows.net/temp/77f36de97f854636b55be7f935692995.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/c53d367e239e4741ac8332e3d84792b6.gif",
-            "part1": "Don't just follow the tracks; venture off the beaten path to discover hidden caches, resources, and even side quests.",
-            "part2": "These detours can offer valuable rewards and enrich your understanding of the game's lore and world. Remember, sometimes the greatest treasures lie beyond the expected route."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Craft Your Way to Success",
-            "img1": "https://gifrun.blob.core.windows.net/temp/80eca48616624f279b3e6ce2bfaf2a7f.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/d91ddc88ca484db993680eff92908f8f.gif",
-            "part1": "Scavenge resources and utilize the crafting system to create weapons, equipment, and even upgrades for your train.",
-            "part2": "Every crafted item can make a difference in the harsh Siberian wilderness. Remember, resourcefulness and ingenuity are key to survival."
-        },
-        {
-            "url": "",
-            "urlimg": "",
-            "url2": "",
-            "url2img": "",
-            "name": "Fortify Your Iron Horse",
-            "img1": "https://gifrun.blob.core.windows.net/temp/a71a9869e3bc4b1ca84d974dcc806d5d.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/eeb46be2a73e4b7da05d23a64f4a2fc0.gif",
-            "part1": "Prepare for the inevitable. Upgrade your train's defenses with armor, turrets, and other fortifications. The sturdier your train, the higher your chances of withstanding enemy attacks and environmental hazards. Remember, prevention is always better than cure.",
+            "name": "Possession Prowess",
+            "img1": "https://gifrun.blob.core.windows.net/temp/48d9bc0a89cf46098bcee8bf77a8647e.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/cb7a675dcf484787990e2ad8b0411e34.gif",
+            "part1": "Seamless swaps, fusion fury, know your forms like dough. Puzzles twist, bosses quake, be the cookie champion's echo!",
             "part2": ""
         },
         {
@@ -353,43 +223,154 @@ Use Your Surroundings: The environment is not just a backdrop; it's a tool. Dest
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Adapt and Improvise",
-            "img1": "https://gifrun.blob.core.windows.net/temp/d434a9666870434c84b3e50b3116fad1.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/87a89b1133d042b78e7bc53b0f7e8020.gif",
-            "part1": "Last Train Home is unpredictable. Be prepared to adapt your plans on the fly when unexpected events occur. Enemy ambushes, resource shortages, and even train damage can all throw a wrench in your plans. ",
-            "part2": "Think creatively, utilize your crew's diverse skills, and improvise solutions to overcome any obstacle. Remember, flexibility is key to survival in a dynamic world."
+            "name": "World Wanderer",
+            "img1": "https://gifrun.blob.core.windows.net/temp/68ef41eac26a490cad925924d0ea12fe.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/68ef41eac26a490cad925924d0ea12fe.gif",
+            "part1": "Explore every nook, secrets whisper in the breeze. Talk to all, craft your story, the world's a sugary mystery.",
+            "part2": ""
         },
         {
             "url": "",
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Immerse Yourself in the Story",
-            "img1": "https://gifrun.blob.core.windows.net/temp/717e3b36de47425b88690297bb328053.gif",
-            "img2": "https://gifrun.blob.core.windows.net/temp/62f469665479486f93bbd02fe9740067.gif",
-            "part1": "Last Train Home is more than just a strategy game; it's a narrative experience. Pay attention to the story, the characters, and the historical context. Make meaningful choices, witness impactful events, and forge relationships with your crew. Remember, the journey is just as important as the destination.",
-            "part2": "These are just a few tips to help you master and enjoy Last Train Home. Remember, the key is to experiment, learn from your mistakes, and most importantly, have fun!"
+            "name": "Resourceful Raiding",
+            "img1": "https://gifrun.blob.core.windows.net/temp/7aa0f2c99ba847bc86a9e9fb2969f547.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/c167c689db474a05bfe52da8bcc26853.gif",
+            "part1": "Gather like a squirrel, master recipes, sell the stale. Craft your destiny, potions fizz, weapons gleam, conquer with cunning!",
+            "part2": ""
         },
         {
             "url": "",
             "urlimg": "",
             "url2": "",
             "url2img": "",
-            "name": "Summary",
-            "img1": "https://gifrun.blob.core.windows.net/temp/3ab17203390e431486687e1df7e1d3c9.gif",
-            "img2": "hhttps://gifrun.blob.core.windows.net/temp/c7e9fa4d1a4b42e29b002b4d3bce9b74.gif",
-            "part1": "Mastering Last Train Home combines strategic planning, resource management, crew care, and adaptability. Here's a quick recap of the 9 key tips:
-
-1-Befriend the Train Mechanics: Understand and utilize every aspect of your train.
-2-Prioritize Crew and Morale: Build a diverse team, keep them happy and healthy.
-3-Navigate the Political Landscape: Forge alliances, complete quests, and manage your reputation.
-4-Embrace the Explorer's Spirit: Venture off the beaten path to discover hidden treasures and stories.
-5-Craft Your Way to Success: Scavenge and craft items to overcome challenges.
-6-Fortify Your Iron Horse: Upgrade your train's defenses for protection.
-7-Adapt and Improvise: Be flexible and think creatively to overcome unexpected situations.
-8-Immerse Yourself in the Story: Enjoy the narrative, characters, and historical context.
-9-Master the Environment: Understand and utilize the different landscapes and weather conditions.",
-            "part2": "Remember, practice, learn from mistakes, and most importantly, have fun on your journey through the harsh Siberian wilderness!"
+            "name": "Platforming Puzzles",
+            "img1": "https://gifrun.blob.core.windows.net/temp/62cbff3132b04555862d4e9b7f8bfa17.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/68e547b5af2049cc989304e229e339ae.gif",
+            "part1": "Precision's your secret spice, hidden paths, wall jump like a pro. Gravity's a foe, not a friend, defy it with sugary grace!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Combo Cadence",
+            "img1": "https://gifrun.blob.core.windows.net/temp/3d0b3d1a31434bd0839be1adc9586d36.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/3e495fa5485e421aa4a8bfc547829660.gif",
+            "part1": "Unfurl combos like sugar tornadoes, enemies in a powdered daze. Whirlwind fury, unstoppable flurry, dance on their frosting remains!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Elemental Alchemy",
+            "img1": "https://gifrun.blob.core.windows.net/temp/e5505a5549954071a63ccc060e19b302.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/ed235020e5cc424ba5eb2d6e5481f05a.gif",
+            "part1": "Fire ignites, frost bites, command elements with a snap. Bend the cookieverse, foes in a sugary sap, victory's your sweetest sip!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Boss Battles Brutal",
+            "img1": "https://gifrun.blob.core.windows.net/temp/ed773803454c46e1af74974c0fc7e761.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/88e6bbc3aa1e4db4a1611f2fe9735e8f.gif",
+            "part1": "Clash with titans, glazed and grand. Sharpen your skills, take a stand, claim the sugary wonderland!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Secrets Unearthed",
+            "img1": "https://gifrun.blob.core.windows.net/temp/31d17eec83064b7387c78552e4b5d30e.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/6889b0e95c81481fb27654759257a2c5.gif",
+            "part1": "Every nook holds a surprise, secrets whispered on the breeze. Bite-sized lore, hidden doors, explore and appease!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Challenge Conquering",
+            "img1": "https://gifrun.blob.core.windows.net/temp/419554cdbe7742ef855d5d7c76df9904.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/cbf3cbe37f9f4b0ea109fe820a2c483e.gif",
+            "part1": "Push your limits, hone your blade. Every triumph a sugar parade, every victory cascade!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "New Game Plus Delights",
+            "img1": "https://gifrun.blob.core.windows.net/temp/0fa9dd1b8ca641c1a2c46421a0610ae3.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/380eb356dca24c929085d0cb72fd3f7c.gif",
+            "part1": "Second helping, double the fun. Experiment, refine, become the baking sun!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Build Unveiled",
+            "img1": "https://gifrun.blob.core.windows.net/temp/cc8c5e7d9d7747caa54c9483d5435c32.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/7e2a64ed0cf342e0855c88406762b319.gif",
+            "part1": "Your ultimate cookie creation, a masterpiece of devastation. Stats that dazzle, enemies who bazzle, the champion's revelation!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": " Leaderboard Ascension",
+            "img1": "https://gifrun.blob.core.windows.net/temp/b59ed804518347d68c7d1b4a4d5b6fb8.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/7ab0682603a94c33b8be2459741fa926.gif",
+            "part1": "Climb the sugarspire, claim your rightful place. Glazed champion, cookie dominator, etch your name with sugary grace!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Community Connection",
+            "img1": "https://gifrun.blob.core.windows.net/temp/248eaf2631084e23aaa514d82a6c76c9.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/4f29bbff53234785b00ebf019215e9d4.gif",
+            "part1": "Share your triumphs, learn from others' might. Collaborate, dominate, make Cookie Cutter your light!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Beyond the Guide",
+            "img1": "https://gifrun.blob.core.windows.net/temp/e93f46a697e9445c80a92e158f560e6a.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/40effc01755043f1988a3bd32117cb13.gif",
+            "part1": "Keep exploring, keep baking, keep the dough rising high. This guide's a stepping stone, your mastery forever nigh!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Remember",
+            "img1": "https://gifrun.blob.core.windows.net/temp/4f92c50730a34e9b8fb2489d6bfb8da4.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/9ab657fa48cb44589028180437228c42.gif",
+            "part1": "Adapt, experiment, let your cookie style rise! Now go forth, brave adventurer, and dominate the Cookieverse!",
+            "part2": ""
         }
     ]
 }
