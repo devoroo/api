@@ -1,0 +1,365 @@
+{
+    "config": [
+        {
+            "int_interval": 5,
+            "activate_ads": "true",
+            "custom_banner": "true",
+            "one_signal": "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
+            "network": "admob",
+            "unity_game_id": "4929725",
+            "unity_int": "Interstitial_Android",
+            "unity_ban": "Banner_Android",
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_native": "ca-app-pub-3940256099942544/2247696110",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "yandex_ban": "R-M-1820435-1",
+            "yandex_native": "R-M-DEMO-native-i",
+            "yandex_int": "R-M-DEMO-interstitial",
+            "iron_key": "168e4ab9d",
+            "iron_ban": "DefaultBanner",
+            "iron_int": "DefaultInterstitial",
+            "max_ban": "ceda1a6dd62a0502",
+            "max_native": "9e27ff985bda79be",
+            "max_int": "3805b3b693717700",
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "activate_update_app": "false",
+            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+        }
+    ],
+    "more": [
+        {
+            "name": "Design Home",
+            "ico": "https://play-lh.googleusercontent.com/g4LYFTpZb_1aGpH304UB4QAXHe2Z1W7vu3bP-HScad7mGiy2pTuV8WsvG5uzcFEDlg=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.crowdstar.covetHome&hl=en&gl=US"
+        },
+        {
+            "name": "My Home Design",
+            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en_ZA"
+        },
+        {
+            "name": "Redecor - Home Design",
+            "ico": "https://play-lh.googleusercontent.com/am_OUV7s4NJqI32hQwxUq5k5mnDlcY3RrMk9NYeaQVNyC53CkH9y29xQhd5SUmXpjKQ=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en_US"
+        },
+        {
+            "name": "Merge Manor",
+            "ico": "https://play-lh.googleusercontent.com/p83XsniGO66ez0My27Aqti-x0Lu911KK-g6l0NoebYldqMFg1O8H5QokW64X9JR4hm8=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.cookapps.sunnyhouse&hl=en_US"
+        },
+        {
+            "name": "Project Makeover",
+            "ico": "https://play-lh.googleusercontent.com/2O-vRPhheNJr-Vb9NLpge3VS2Ys8FjbB0vdq2BLrU6EhyntA2bR2T90pVE50mEyy-A=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.bgg.jump&hl=en_US"
+        },
+        {
+            "name": "Design Blast",
+            "ico": "https://play-lh.googleusercontent.com/8goSBP17QWoDu8eBLoDLKibYbheVTxRuR4ieHznJF2pn5HNddc0vfo2NFGzF5hwQoEjS=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.bigcool.puzzle.designblast&hl=en_US"
+        },
+        {
+            "name": "Room Planner",
+            "ico": "https://play-lh.googleusercontent.com/e6kUFH_MspS1SZbCUDGVYnifmYmGkS9GnjD59NTcREArZ3WezoalwxJolzzpqLyZFUQ=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.icandesignapp.all&hl=en_US"
+        },
+        {
+            "name": "Homescapes",
+            "ico": "https://play-lh.googleusercontent.com/HWVNuIGO3NfdVBCmw_rQGTfINA7pdoedynIZbC8TcoNKvd-aAkzk7XboE0zDZE0_CF8=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en_US"
+        },
+        {
+            "name": "Design My Home",
+            "ico": "https://play-lh.googleusercontent.com/lSxCnEPBCpUwieewolfF7leKpM_8y3qBDt4pzSkGrjiYSSsgoTboNujLYwFEq3yy7LE=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.holycowstudio.design.my.home.makeover.word.life&hl=en_US"
+        },
+        {
+            "name": "Home Design Star",
+            "ico": "https://play-lh.googleusercontent.com/irP0bu8dvhc9nDnGaAp6fbFZfMR98NxNWnyX7JigPw6F8WTFrnkjfzBeiBq55TVAg04=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.cookapps.redesignstar.homemakeover&hl=en_US"
+        }
+    ],
+    "games": [
+        {
+            "name": "Redecor - Home Design Game",
+            "ico": "https://play-lh.googleusercontent.com/am_OUV7s4NJqI32hQwxUq5k5mnDlcY3RrMk9NYeaQVNyC53CkH9y29xQhd5SUmXpjKQ=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en_US",
+            "cat": "Overall",
+            "orientation": "1"
+        },
+        {
+            "name": "My Home Design - Modern City",
+            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en_ZA",
+            "cat": "Strategies",
+            "orientation": "0"
+        },
+        {
+            "name": "Sweet Home : Design & Blast",
+            "ico": "https://play-lh.googleusercontent.com/flLJYNOgW6Bo-tG-yQ_lKHKm0-TQfrHHHZot85dkpmTmRt4Kuv2TKJy5JSDcwDQInLgW=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.sweetlife&hl=en",
+            "cat": "Soccer",
+            "orientation": "1"
+        },
+		
+    ],
+    "custom": [
+        {
+            "name": "Redecor - Home Design Game",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/f0yVpNP/1.jpg",
+            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en_US"
+        },
+        {
+            "name": "My Home Design - Modern City",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/x3p4gtx/2.jpg",
+            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en_ZA"
+        },
+        {
+            "name": "Sweet Home : Design & Blast",
+            "title": "Safety starts with understanding how developers.",
+            "description": "Data privacy and security practices may vary based on your use, region, and age.",
+            "ico2": "https://i.ibb.co/0t0VXPs/3.jpg",
+            "ico": "https://play-lh.googleusercontent.com/flLJYNOgW6Bo-tG-yQ_lKHKm0-TQfrHHHZot85dkpmTmRt4Kuv2TKJy5JSDcwDQInLgW=w240-h480-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.sweetlife&hl=en"
+        },
+        
+    ],
+    "wallpapers": [
+        {
+            "name": "",
+            "img": "https://i.ibb.co/LN2sWG2/03.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/Bnfx5Vc/04.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/7vYfZym/02.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/tPR889F/01.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/pvVCv27/0010.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/K0zXPPp/09.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/BtDsXfd/08.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/56TK2Xm/07.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/pvNKN3x/05.jpg"
+        },
+        {
+            "name": "",
+            "img": "https://i.ibb.co/k5ZYKFR/06.jpg"
+        }
+    ],
+    "data": [
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Doughy Dexterity",
+            "img1": "https://gifrun.blob.core.windows.net/temp/fbe2ac81f4dc41e896f170e20abfe57c.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/4bef3f9428114759bcaafb16e58e3fd9.gif",
+            "part1": "Master combos, dodges, and elemental dances. Be the graceful storm, the sugared hurricane!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Skillful Symphony",
+            "img1": "https://gifrun.blob.core.windows.net/temp/2ea5465760794947b91798296419f14a.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/344047f8fbd945a3813ba449c06dade1.gif",
+            "part1": "Experiment, unlock hidden melodies, master cooldowns. Your build's a concerto, enemies crumble like pastries!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Possession Prowess",
+            "img1": "https://gifrun.blob.core.windows.net/temp/48d9bc0a89cf46098bcee8bf77a8647e.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/cb7a675dcf484787990e2ad8b0411e34.gif",
+            "part1": "Seamless swaps, fusion fury, know your forms like dough. Puzzles twist, bosses quake, be the cookie champion's echo!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "World Wanderer",
+            "img1": "https://gifrun.blob.core.windows.net/temp/68ef41eac26a490cad925924d0ea12fe.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/68ef41eac26a490cad925924d0ea12fe.gif",
+            "part1": "Explore every nook, secrets whisper in the breeze. Talk to all, craft your story, the world's a sugary mystery.",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Resourceful Raiding",
+            "img1": "https://gifrun.blob.core.windows.net/temp/7aa0f2c99ba847bc86a9e9fb2969f547.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/c167c689db474a05bfe52da8bcc26853.gif",
+            "part1": "Gather like a squirrel, master recipes, sell the stale. Craft your destiny, potions fizz, weapons gleam, conquer with cunning!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Platforming Puzzles",
+            "img1": "https://gifrun.blob.core.windows.net/temp/62cbff3132b04555862d4e9b7f8bfa17.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/68e547b5af2049cc989304e229e339ae.gif",
+            "part1": "Precision's your secret spice, hidden paths, wall jump like a pro. Gravity's a foe, not a friend, defy it with sugary grace!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Combo Cadence",
+            "img1": "https://gifrun.blob.core.windows.net/temp/3d0b3d1a31434bd0839be1adc9586d36.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/3e495fa5485e421aa4a8bfc547829660.gif",
+            "part1": "Unfurl combos like sugar tornadoes, enemies in a powdered daze. Whirlwind fury, unstoppable flurry, dance on their frosting remains!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Elemental Alchemy",
+            "img1": "https://gifrun.blob.core.windows.net/temp/e5505a5549954071a63ccc060e19b302.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/ed235020e5cc424ba5eb2d6e5481f05a.gif",
+            "part1": "Fire ignites, frost bites, command elements with a snap. Bend the cookieverse, foes in a sugary sap, victory's your sweetest sip!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Boss Battles Brutal",
+            "img1": "https://gifrun.blob.core.windows.net/temp/ed773803454c46e1af74974c0fc7e761.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/88e6bbc3aa1e4db4a1611f2fe9735e8f.gif",
+            "part1": "Clash with titans, glazed and grand. Sharpen your skills, take a stand, claim the sugary wonderland!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Secrets Unearthed",
+            "img1": "https://gifrun.blob.core.windows.net/temp/31d17eec83064b7387c78552e4b5d30e.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/6889b0e95c81481fb27654759257a2c5.gif",
+            "part1": "Every nook holds a surprise, secrets whispered on the breeze. Bite-sized lore, hidden doors, explore and appease!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Challenge Conquering",
+            "img1": "https://gifrun.blob.core.windows.net/temp/419554cdbe7742ef855d5d7c76df9904.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/cbf3cbe37f9f4b0ea109fe820a2c483e.gif",
+            "part1": "Push your limits, hone your blade. Every triumph a sugar parade, every victory cascade!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "New Game Plus Delights",
+            "img1": "https://gifrun.blob.core.windows.net/temp/0fa9dd1b8ca641c1a2c46421a0610ae3.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/380eb356dca24c929085d0cb72fd3f7c.gif",
+            "part1": "Second helping, double the fun. Experiment, refine, become the baking sun!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Build Unveiled",
+            "img1": "https://gifrun.blob.core.windows.net/temp/cc8c5e7d9d7747caa54c9483d5435c32.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/7e2a64ed0cf342e0855c88406762b319.gif",
+            "part1": "Your ultimate cookie creation, a masterpiece of devastation. Stats that dazzle, enemies who bazzle, the champion's revelation!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": " Leaderboard Ascension",
+            "img1": "https://gifrun.blob.core.windows.net/temp/b59ed804518347d68c7d1b4a4d5b6fb8.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/7ab0682603a94c33b8be2459741fa926.gif",
+            "part1": "Climb the sugarspire, claim your rightful place. Glazed champion, cookie dominator, etch your name with sugary grace!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Community Connection",
+            "img1": "https://gifrun.blob.core.windows.net/temp/248eaf2631084e23aaa514d82a6c76c9.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/4f29bbff53234785b00ebf019215e9d4.gif",
+            "part1": "Share your triumphs, learn from others' might. Collaborate, dominate, make Cookie Cutter your light!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Beyond the Guide",
+            "img1": "https://gifrun.blob.core.windows.net/temp/e93f46a697e9445c80a92e158f560e6a.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/40effc01755043f1988a3bd32117cb13.gif",
+            "part1": "Keep exploring, keep baking, keep the dough rising high. This guide's a stepping stone, your mastery forever nigh!",
+            "part2": ""
+        },
+        {
+            "url": "",
+            "urlimg": "",
+            "url2": "",
+            "url2img": "",
+            "name": "Remember",
+            "img1": "https://gifrun.blob.core.windows.net/temp/4f92c50730a34e9b8fb2489d6bfb8da4.gif",
+            "img2": "https://gifrun.blob.core.windows.net/temp/9ab657fa48cb44589028180437228c42.gif",
+            "part1": "Adapt, experiment, let your cookie style rise! Now go forth, brave adventurer, and dominate the Cookieverse!",
+            "part2": ""
+        }
+    ]
+}
