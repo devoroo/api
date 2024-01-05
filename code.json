@@ -9,9 +9,9 @@
             "unity_game_id": "4929725",
             "unity_int": "Interstitial_Android",
             "unity_ban": "Banner_Android",
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native": "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "ca-app-pub-9532640730879195/2120205762",
+            "admob_native": "ca-app-pub-9532640730879195/9615552406",
+            "admob_int": "ca-app-pub-9532640730879195/1928634078",
             "yandex_ban": "R-M-1820435-1",
             "yandex_native": "R-M-DEMO-native-i",
             "yandex_int": "R-M-DEMO-interstitial",
@@ -25,7 +25,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
             "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+            "update_link": "https://play.google.com/store/apps/details?id=com.kscodes.lyh"
         }
     ],
     "more": [
