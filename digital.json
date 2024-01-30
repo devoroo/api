@@ -82,23 +82,23 @@
     ],
     "games": [
         {
-            "name": "Redecor - Home Design Game",
-            "ico": "https://play-lh.googleusercontent.com/am_OUV7s4NJqI32hQwxUq5k5mnDlcY3RrMk9NYeaQVNyC53CkH9y29xQhd5SUmXpjKQ=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en_US",
+            "name": "Five Nights at Freddy's",
+            "ico": "https://play-lh.googleusercontent.com/myJ2kwywsCRglKkZuHBq6Aku9PX7HB75v-8KbnTK9JOPU6z0hpD9xtvjiTGqrn-e4eI=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.scottgames.fivenightsatfreddys&hl=en&gl=US",
             "cat": "Overall",
             "orientation": "1"
         },
         {
-            "name": "My Home Design - Modern City",
-            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en_ZA",
+            "name": "Granny's House",
+            "ico": "https://play-lh.googleusercontent.com/GeVMBveO5CSlN0C9X2wMZhA1EJctMAvIzO9lRXe866zDSA5SPoCQaTYwLEY39siYxg=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=net.updategames.granny",
             "cat": "Strategies",
             "orientation": "0"
         },
         {
-            "name": "Sweet Home : Design & Blast",
-            "ico": "https://play-lh.googleusercontent.com/flLJYNOgW6Bo-tG-yQ_lKHKm0-TQfrHHHZot85dkpmTmRt4Kuv2TKJy5JSDcwDQInLgW=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.sweetlife&hl=en",
+            "name": "One Night at Flumpty's 3",
+            "ico": "https://play-lh.googleusercontent.com/-j3dBUiol9CTEFYbzPjt-cGXx4yxzhuw2xnWeTdRsXogFNHp2fJ0CVflrlF-WI3Zya8=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.Clickteam.ONAF3",
             "cat": "Soccer",
             "orientation": "1"
         },
@@ -106,28 +106,28 @@
     ],
     "custom": [
         {
-            "name": "Redecor - Home Design Game",
+            "name": "Five Nights at Freddy's",
             "title": "Safety starts with understanding how developers.",
             "description": "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2": "https://i.ibb.co/f0yVpNP/1.jpg",
-            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=fi.reworks.redecor&hl=en_US"
+            "ico2": "https://i.ibb.co/PhgTPfb/01.jpg",
+            "ico": "https://play-lh.googleusercontent.com/myJ2kwywsCRglKkZuHBq6Aku9PX7HB75v-8KbnTK9JOPU6z0hpD9xtvjiTGqrn-e4eI=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.scottgames.fivenightsatfreddys&hl=en&gl=US"
         },
         {
-            "name": "My Home Design - Modern City",
+            "name": "Granny's House",
             "title": "Safety starts with understanding how developers.",
             "description": "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2": "https://i.ibb.co/x3p4gtx/2.jpg",
-            "ico": "https://play-lh.googleusercontent.com/aP4Ha9woMb34alAM9bzjlOwc8G17xCvjVcgSr0Wu8uS40kHeNaDF5sCr4kBL5oUL-tKn=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.cookapps.ff.moderncity&hl=en_ZA"
+            "ico2": "https://i.ibb.co/5Mf4VPr/02.jpg",
+            "ico": "https://play-lh.googleusercontent.com/GeVMBveO5CSlN0C9X2wMZhA1EJctMAvIzO9lRXe866zDSA5SPoCQaTYwLEY39siYxg=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=net.updategames.granny"
         },
         {
-            "name": "Sweet Home : Design & Blast",
+            "name": "One Night at Flumpty's 3",
             "title": "Safety starts with understanding how developers.",
             "description": "Data privacy and security practices may vary based on your use, region, and age.",
-            "ico2": "https://i.ibb.co/0t0VXPs/3.jpg",
-            "ico": "https://play-lh.googleusercontent.com/flLJYNOgW6Bo-tG-yQ_lKHKm0-TQfrHHHZot85dkpmTmRt4Kuv2TKJy5JSDcwDQInLgW=w240-h480-rw",
-            "link": "https://play.google.com/store/apps/details?id=com.puzzle1studio.go.sweetlife&hl=en"
+            "ico2": "https://i.ibb.co/y8p82rh/03.jpg",
+            "ico": "https://play-lh.googleusercontent.com/-j3dBUiol9CTEFYbzPjt-cGXx4yxzhuw2xnWeTdRsXogFNHp2fJ0CVflrlF-WI3Zya8=s48-rw",
+            "link": "https://play.google.com/store/apps/details?id=com.Clickteam.ONAF3"
         },
         
     ],
